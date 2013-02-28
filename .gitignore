@@ -1,0 +1,15 @@
+syntax: glob
+.DS_Store
+*.*~
+bin/*
+*/bin/*
+*.o
+*.dSYM/*
+*.pdf
+*.aux
+*.log
+*.dvi
+*.png
+*/*.sty
+*/*.cls
+*.*~
